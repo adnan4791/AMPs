@@ -1,0 +1,8 @@
+pi estimation : 3.141593
+waktu eksekusi :  1.970889
+
+Program di eksekusi pada : cpu 0 
+./serialpi took 1,97690 seconds and exited with status 0
+    | Nehalem                   || Mperf              || Idle_Stats                
+ CPU| C3   | C6   | PC3  | PC6   || C0   | Cx   | Freq  || POLL | C1_A | C2_A | C3_A  
+   0|  0,00|  0,00|  0,00|  0,00|| 98,96|  1,04|  4392||  0,00|  0,18|  0,04|  0,00

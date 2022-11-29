@@ -1,0 +1,640 @@
+pi estimation : 3.141593
+waktu eksekusi :  1.951685
+
+Program di eksekusi pada : cpu 0 
+pi estimation : 3.141593
+waktu eksekusi :  1.933185
+
+Program di eksekusi pada : cpu 0 
+pi estimation : 3.141593
+waktu eksekusi :  1.934221
+
+Program di eksekusi pada : cpu 0 
+pi estimation : 3.141593
+waktu eksekusi :  1.938285
+
+Program di eksekusi pada : cpu 0 
+pi estimation : 3.141593
+waktu eksekusi :  1.936362
+
+Program di eksekusi pada : cpu 0 
+pi estimation : 3.141593
+waktu eksekusi :  1.937324
+
+Program di eksekusi pada : cpu 0 
+pi estimation : 3.141593
+waktu eksekusi :  1.936382
+
+Program di eksekusi pada : cpu 0 
+pi estimation : 3.141593
+waktu eksekusi :  1.936002
+
+Program di eksekusi pada : cpu 0 
+pi estimation : 3.141593
+waktu eksekusi :  1.936133
+
+Program di eksekusi pada : cpu 0 
+pi estimation : 3.141593
+waktu eksekusi :  1.936151
+
+Program di eksekusi pada : cpu 0 
+pi estimation : 3.141593
+waktu eksekusi :  1.874737
+
+Program di eksekusi pada : cpu 0 cpu 1 
+pi estimation : 3.141593
+waktu eksekusi :  1.871645
+
+Program di eksekusi pada : cpu 0 cpu 1 
+pi estimation : 3.141593
+waktu eksekusi :  1.877506
+
+Program di eksekusi pada : cpu 0 cpu 1 
+pi estimation : 3.141593
+waktu eksekusi :  1.880484
+
+Program di eksekusi pada : cpu 0 cpu 1 
+pi estimation : 3.141593
+waktu eksekusi :  1.878901
+
+Program di eksekusi pada : cpu 0 cpu 1 
+pi estimation : 3.141593
+waktu eksekusi :  1.873162
+
+Program di eksekusi pada : cpu 0 cpu 1 
+pi estimation : 3.141593
+waktu eksekusi :  1.880037
+
+Program di eksekusi pada : cpu 0 cpu 1 
+pi estimation : 3.141593
+waktu eksekusi :  1.875758
+
+Program di eksekusi pada : cpu 0 cpu 1 
+pi estimation : 3.141593
+waktu eksekusi :  1.872200
+
+Program di eksekusi pada : cpu 0 cpu 1 
+pi estimation : 3.141593
+waktu eksekusi :  1.875165
+
+Program di eksekusi pada : cpu 0 cpu 1 
+pi estimation : 3.141593
+waktu eksekusi :  1.012433
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 
+pi estimation : 3.141593
+waktu eksekusi :  1.011842
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 
+pi estimation : 3.141593
+waktu eksekusi :  0.999179
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 
+pi estimation : 3.141593
+waktu eksekusi :  1.004802
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 
+pi estimation : 3.141593
+waktu eksekusi :  1.039299
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 
+pi estimation : 3.141593
+waktu eksekusi :  1.019755
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 
+pi estimation : 3.141593
+waktu eksekusi :  1.023981
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 
+pi estimation : 3.141593
+waktu eksekusi :  1.015262
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 
+pi estimation : 3.141593
+waktu eksekusi :  1.014191
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 
+pi estimation : 3.141593
+waktu eksekusi :  1.036012
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 
+pi estimation : 3.141593
+waktu eksekusi :  0.951037
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 
+pi estimation : 3.141593
+waktu eksekusi :  0.952426
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 
+pi estimation : 3.141593
+waktu eksekusi :  0.948519
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 
+pi estimation : 3.141593
+waktu eksekusi :  0.950633
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 
+pi estimation : 3.141593
+waktu eksekusi :  0.946108
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 
+pi estimation : 3.141593
+waktu eksekusi :  0.949548
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 
+pi estimation : 3.141593
+waktu eksekusi :  0.951513
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 
+pi estimation : 3.141593
+waktu eksekusi :  0.945734
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 
+pi estimation : 3.141593
+waktu eksekusi :  0.950061
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 
+pi estimation : 3.141593
+waktu eksekusi :  0.952322
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 
+pi estimation : 3.141593
+waktu eksekusi :  0.829868
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 
+pi estimation : 3.141593
+waktu eksekusi :  0.821466
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 
+pi estimation : 3.141593
+waktu eksekusi :  0.832182
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 
+pi estimation : 3.141593
+waktu eksekusi :  0.831224
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 
+pi estimation : 3.141593
+waktu eksekusi :  0.834232
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 
+pi estimation : 3.141593
+waktu eksekusi :  0.816890
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 
+pi estimation : 3.141593
+waktu eksekusi :  0.820104
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 
+pi estimation : 3.141593
+waktu eksekusi :  0.821390
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 
+pi estimation : 3.141593
+waktu eksekusi :  0.836378
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 
+pi estimation : 3.141593
+waktu eksekusi :  0.833434
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 
+pi estimation : 3.141593
+waktu eksekusi :  0.745329
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 
+pi estimation : 3.141593
+waktu eksekusi :  0.745669
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 
+pi estimation : 3.141593
+waktu eksekusi :  0.745709
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 
+pi estimation : 3.141593
+waktu eksekusi :  0.749305
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 
+pi estimation : 3.141593
+waktu eksekusi :  0.743609
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 
+pi estimation : 3.141593
+waktu eksekusi :  0.744846
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 
+pi estimation : 3.141593
+waktu eksekusi :  0.748149
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 
+pi estimation : 3.141593
+waktu eksekusi :  0.748895
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 
+pi estimation : 3.141593
+waktu eksekusi :  0.744083
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 
+pi estimation : 3.141593
+waktu eksekusi :  0.747491
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 
+pi estimation : 3.141593
+waktu eksekusi :  0.642670
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 
+pi estimation : 3.141593
+waktu eksekusi :  0.644868
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 
+pi estimation : 3.141593
+waktu eksekusi :  0.645243
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 
+pi estimation : 3.141593
+waktu eksekusi :  0.649532
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 
+pi estimation : 3.141593
+waktu eksekusi :  0.644763
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 
+pi estimation : 3.141593
+waktu eksekusi :  0.645422
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 
+pi estimation : 3.141593
+waktu eksekusi :  0.648935
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 
+pi estimation : 3.141593
+waktu eksekusi :  0.647502
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 
+pi estimation : 3.141593
+waktu eksekusi :  0.646938
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 
+pi estimation : 3.141593
+waktu eksekusi :  0.646210
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 
+pi estimation : 3.141593
+waktu eksekusi :  0.589505
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 
+pi estimation : 3.141593
+waktu eksekusi :  0.592501
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 
+pi estimation : 3.141593
+waktu eksekusi :  0.588461
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 
+pi estimation : 3.141593
+waktu eksekusi :  0.591460
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 
+pi estimation : 3.141593
+waktu eksekusi :  0.587121
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 
+pi estimation : 3.141593
+waktu eksekusi :  0.592750
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 
+pi estimation : 3.141593
+waktu eksekusi :  0.591719
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 
+pi estimation : 3.141593
+waktu eksekusi :  0.588593
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 
+pi estimation : 3.141593
+waktu eksekusi :  0.591715
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 
+pi estimation : 3.141593
+waktu eksekusi :  0.588148
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 
+pi estimation : 3.141593
+waktu eksekusi :  0.549283
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 
+pi estimation : 3.141593
+waktu eksekusi :  0.556844
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 
+pi estimation : 3.141593
+waktu eksekusi :  0.542740
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 
+pi estimation : 3.141593
+waktu eksekusi :  0.537697
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 
+pi estimation : 3.141593
+waktu eksekusi :  0.560185
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 
+pi estimation : 3.141593
+waktu eksekusi :  0.539786
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 
+pi estimation : 3.141593
+waktu eksekusi :  0.558156
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 
+pi estimation : 3.141593
+waktu eksekusi :  0.550822
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 
+pi estimation : 3.141593
+waktu eksekusi :  0.551046
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 
+pi estimation : 3.141593
+waktu eksekusi :  0.558438
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 
+pi estimation : 3.141593
+waktu eksekusi :  0.536825
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 
+pi estimation : 3.141593
+waktu eksekusi :  0.512552
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 
+pi estimation : 3.141593
+waktu eksekusi :  0.516510
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 
+pi estimation : 3.141593
+waktu eksekusi :  0.556753
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 
+pi estimation : 3.141593
+waktu eksekusi :  0.518372
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 
+pi estimation : 3.141593
+waktu eksekusi :  0.533957
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 
+pi estimation : 3.141593
+waktu eksekusi :  0.552832
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 
+pi estimation : 3.141593
+waktu eksekusi :  0.559450
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 
+pi estimation : 3.141593
+waktu eksekusi :  0.524950
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 
+pi estimation : 3.141593
+waktu eksekusi :  0.537511
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 
+pi estimation : 3.141593
+waktu eksekusi :  0.500134
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 
+pi estimation : 3.141593
+waktu eksekusi :  0.487177
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 
+pi estimation : 3.141593
+waktu eksekusi :  0.538640
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 
+pi estimation : 3.141593
+waktu eksekusi :  0.488439
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 
+pi estimation : 3.141593
+waktu eksekusi :  0.491067
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 
+pi estimation : 3.141593
+waktu eksekusi :  0.489706
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 
+pi estimation : 3.141593
+waktu eksekusi :  0.517289
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 
+pi estimation : 3.141593
+waktu eksekusi :  0.495026
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 
+pi estimation : 3.141593
+waktu eksekusi :  0.530612
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 
+pi estimation : 3.141593
+waktu eksekusi :  0.493196
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 
+pi estimation : 3.141593
+waktu eksekusi :  0.455597
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 
+pi estimation : 3.141593
+waktu eksekusi :  0.456138
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 
+pi estimation : 3.141593
+waktu eksekusi :  0.456090
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 
+pi estimation : 3.141593
+waktu eksekusi :  0.457480
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 
+pi estimation : 3.141593
+waktu eksekusi :  0.459673
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 
+pi estimation : 3.141593
+waktu eksekusi :  0.475469
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 
+pi estimation : 3.141593
+waktu eksekusi :  0.523570
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 
+pi estimation : 3.141593
+waktu eksekusi :  0.482400
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 
+pi estimation : 3.141593
+waktu eksekusi :  0.514547
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 
+pi estimation : 3.141593
+waktu eksekusi :  0.494730
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 
+pi estimation : 3.141593
+waktu eksekusi :  0.462055
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 
+pi estimation : 3.141593
+waktu eksekusi :  0.548730
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 
+pi estimation : 3.141593
+waktu eksekusi :  0.485008
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 
+pi estimation : 3.141593
+waktu eksekusi :  0.474087
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 
+pi estimation : 3.141593
+waktu eksekusi :  0.477573
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 
+pi estimation : 3.141593
+waktu eksekusi :  0.475339
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 
+pi estimation : 3.141593
+waktu eksekusi :  0.523901
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 
+pi estimation : 3.141593
+waktu eksekusi :  0.466316
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 
+pi estimation : 3.141593
+waktu eksekusi :  0.479009
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 
+pi estimation : 3.141593
+waktu eksekusi :  0.476782
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 
+pi estimation : 3.141593
+waktu eksekusi :  0.447080
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 
+pi estimation : 3.141593
+waktu eksekusi :  0.463777
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 
+pi estimation : 3.141593
+waktu eksekusi :  0.451434
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 
+pi estimation : 3.141593
+waktu eksekusi :  0.500765
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 
+pi estimation : 3.141593
+waktu eksekusi :  0.490447
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 
+pi estimation : 3.141593
+waktu eksekusi :  0.436841
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 
+pi estimation : 3.141593
+waktu eksekusi :  0.453772
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 
+pi estimation : 3.141593
+waktu eksekusi :  0.450624
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 
+pi estimation : 3.141593
+waktu eksekusi :  0.455468
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 
+pi estimation : 3.141593
+waktu eksekusi :  0.502503
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 
+pi estimation : 3.141593
+waktu eksekusi :  0.417398
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 
+pi estimation : 3.141593
+waktu eksekusi :  0.431853
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 
+pi estimation : 3.141593
+waktu eksekusi :  0.432456
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 
+pi estimation : 3.141593
+waktu eksekusi :  0.487109
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 
+pi estimation : 3.141593
+waktu eksekusi :  0.440643
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 
+pi estimation : 3.141593
+waktu eksekusi :  0.424747
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 
+pi estimation : 3.141593
+waktu eksekusi :  0.431126
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 
+pi estimation : 3.141593
+waktu eksekusi :  0.430583
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 
+pi estimation : 3.141593
+waktu eksekusi :  0.432526
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 
+pi estimation : 3.141593
+waktu eksekusi :  0.466958
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 
+pi estimation : 3.141593
+waktu eksekusi :  0.402267
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.439043
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.403025
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.434231
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.414924
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.412214
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.424940
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.436563
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.441928
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.400428
+
+Program di eksekusi pada : cpu 0 cpu 1 cpu 2 cpu 3 cpu 4 cpu 5 cpu 6 cpu 7 cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 

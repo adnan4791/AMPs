@@ -1,0 +1,80 @@
+pi estimation : 3.141593
+waktu eksekusi :  0.720301
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.685061
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.697860
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.709617
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.678161
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.683291
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.676535
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.688813
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.675933
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.695499
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.706380
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.682185
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.703606
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.684084
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.701575
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.688864
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.676443
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.680089
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.697748
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
+pi estimation : 3.141593
+waktu eksekusi :  0.682243
+
+Program di eksekusi pada : cpu 8 cpu 9 cpu 10 cpu 11 cpu 12 cpu 13 cpu 14 cpu 15 
