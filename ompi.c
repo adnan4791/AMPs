@@ -19,7 +19,6 @@ double compute_pi() {
         sum += 4.0/(1+x*x)*delta;
     }
     return sum;
-
 }
 
 int main(int argc, char *argv[]) {
@@ -51,7 +50,11 @@ int main(int argc, char *argv[]) {
                  break;
         case 4 : team = performance_smt;
                  break;
-        case 5 : team = hybrid_smt_pf;
+        case 5 : team = performance_smt_pf;
+                 break;
+        case 6 : team = hybrid_smt;
+                 break;
+        case 7 : team = hybrid_smt_pf;
                  break;
         default : team = hybrid_smt_pf;
     }
@@ -62,12 +65,12 @@ int main(int argc, char *argv[]) {
     int result = sched_setaffinity(0,sizeof(mask),&mask);
     num_step = 2000000000l;
     start_timer();
-    printf("pi estimation : %f\n",compute_pi());
-    lap_time("waktu eksekusi : ");
-    printf("\n");
-    printf("Program di eksekusi pada : ");
-    for(int i =0;i<nworkers;i++)
-        printf("cpu %d ",team[i]);
-    printf("\n");
+    compute_pi();
+    lap_time("");
+ //   printf("\n");
+//    printf("Program di eksekusi pada : ");
+//    for(int i =0;i<nworkers;i++)
+//        printf("cpu %d ",team[i]);
+//    printf("\n");
     return 0;
 }
