@@ -1,0 +1,2 @@
+tag,work (seconds),span (seconds),parallelism,burdened_span (seconds),burdened_parallelism,1c time (seconds),2c time (seconds),3c time (seconds),4c time (seconds),5c time (seconds),6c time (seconds),7c time (seconds),8c time (seconds),9c time (seconds),10c time (seconds),11c time (seconds),12c time (seconds)
+,5.39447,0.0034899,1545.74,0.0036149,1492.29,3.44787,1.7375,1.15601,0.863186,0.779217,0.693578,0.649547,0.592046,0.549729,0.491708,0.464261,0.426699
