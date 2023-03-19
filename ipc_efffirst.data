@@ -1,0 +1,62 @@
+12, 0.328810
+tag,time (seconds)
+,0.329314
+
+ EXEC  : instructions per nominal CPU cycle
+ IPC   : instructions per CPU cycle
+ FREQ  : relation to nominal CPU frequency='unhalted clock ticks'/'invariant timer ticks' (includes Intel Turbo Boost)
+ AFREQ : relation to nominal CPU frequency while in active state (not in power-saving C state)='unhalted clock ticks'/'invariant timer ticks while in C0-state'  (includes Intel Turbo Boost)
+ L3MISS: L3 (read) cache misses 
+ L2MISS: L2 (read) cache misses (including other core's L2 cache *hits*) 
+ L3HIT : L3 (read) cache hit ratio (0.00-1.00)
+ L2HIT : L2 cache hit ratio (0.00-1.00)
+ L3MPI : number of L3 (read) cache misses per instruction
+ L2MPI : number of L2 (read) cache misses per instruction
+ READ  : bytes read from main memory controller (in GBytes)
+ WRITE : bytes written to main memory controller (in GBytes)
+ TEMP  : Temperature reading in 1 degree Celsius relative to the TjMax temperature (thermal headroom): 0 corresponds to the max temperature
+ energy: Energy in Joules
+
+
+ Core (SKT) | EXEC | IPC  | FREQ  | AFREQ | L3MISS | L2MISS | L3HIT | L2HIT | L3MPI | L2MPI |  TEMP
+
+   0    0     4.61   2.81   1.64    1.65      17 K   6696      0.74    0.66  0.0000  0.0000     39
+   1    0     0.02   0.59   0.03    1.65     195 K     11 K    0.33    0.71  0.0170  0.0010     39
+   2    0     4.63   2.82   1.64    1.65      41 K   8710      0.62    0.59  0.0000  0.0000     44
+   3    0     0.00   0.63   0.01    1.64      29 K     10 K    0.67    0.69  0.0091  0.0032     44
+   4    0     4.64   2.82   1.64    1.65      45 K   8404      0.62    0.71  0.0000  0.0000     41
+   5    0     0.02   1.42   0.01    1.60      31 K   5776      0.63    0.87  0.0023  0.0004     41
+   6    0     4.61   2.80   1.65    1.65     181 K   7379      0.27    0.63  0.0001  0.0000     42
+   7    0     0.00   0.10   0.03    1.64      18 K   5421      0.64    0.62  0.0106  0.0032     42
+   8    0     2.11   1.46   1.45    1.46      26 K   4649      0.64    0.62  0.0000  0.0000     46
+   9    0     2.11   1.46   1.45    1.46      16 K   3159      0.59    0.72  0.0000  0.0000     46
+  10    0     2.11   1.46   1.45    1.46    5019     2509      0.78    0.64  0.0000  0.0000     46
+  11    0     2.11   1.46   1.45    1.46      13 K   3674      0.64    0.66  0.0000  0.0000     46
+  12    0     2.11   1.46   1.45    1.46    6629     2579      0.75    0.61  0.0000  0.0000     46
+  13    0     2.11   1.46   1.45    1.46    6774     2746      0.73    0.66  0.0000  0.0000     46
+  14    0     2.11   1.46   1.45    1.46    5033     2179      0.75    0.64  0.0000  0.0000     46
+  15    0     1.42   1.46   0.97    1.46      30 K   5083      0.60    0.66  0.0000  0.0000     46
+---------------------------------------------------------------------------------------------------------------
+ SKT    0     2.17   1.95   1.11    1.53     670 K     91 K    0.51    0.69  0.0000  0.0000     39
+---------------------------------------------------------------------------------------------------------------
+ TOTAL  *     2.17   1.95   1.11    1.53     670 K     91 K    0.51    0.69  0.0000  0.0000     N/A
+
+ Instructions retired:   24 G ; Active cycles:   12 G ; Time (TSC):  700 Mticks ; C0 (active,non-halted) core residency: 72.57 %
+
+ C1 core residency: 25.33 %; C3 core residency: 0.00 %; C6 core residency: 2.10 %; C7 core residency: 0.00 %;
+ C0 package residency: 100.00 %; C2 package residency: 0.00 %; C4 package residency: 0.00 %; C6 package residency: 0.00 %;
+                             ┌────────────────────────────────────────────────────────────────────────────────┐
+ Core    C-state distribution│00000000000000000000000000000000000000000000000000000000001111111111111111111166│
+                             └────────────────────────────────────────────────────────────────────────────────┘
+                             ┌────────────────────────────────────────────────────────────────────────────────┐
+ Package C-state distribution│00000000000000000000000000000000000000000000000000000000000000000000000000000000│
+                             └────────────────────────────────────────────────────────────────────────────────┘
+
+ PHYSICAL CORE IPC                 : 3.91 => corresponds to 65.16 % utilization for cores in active state
+ Instructions per nominal CPU cycle: 4.34 => corresponds to 72.33 % core utilization over time interval
+ SMI count: 0
+---------------------------------------------------------------------------------------------------------------
+MEM (GB)->|  READ |  WRITE | CPU energy |
+---------------------------------------------------------------------------------------------------------------
+ SKT   0     0.00     0.00      14.75               
+---------------------------------------------------------------------------------------------------------------
